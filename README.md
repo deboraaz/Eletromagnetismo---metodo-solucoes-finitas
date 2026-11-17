@@ -1,1 +1,1 @@
-# Eletromagnetismo---m-todo-das-solu-es-finitas
+# Eletromagnetismo - metodo solucoes finitas
